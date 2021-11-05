@@ -1,6 +1,6 @@
 # Smart Automatic Parking
 
-Arduino project for smart parking system
+Arduino project for smart parking system using ultrasonic sensor.
 
 # Curcuit Design
 ![Lab13](https://user-images.githubusercontent.com/91018933/140500480-bb8fd7d4-40a8-4d18-99d3-7128d67c28cb.PNG)
