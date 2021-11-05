@@ -9,3 +9,7 @@ Arduino project for smart parking system
   3. 2 LEDS
   4. Resistors
   5. mg90s Servo motor 0-180 degrees
+ 
+ 
+![20210804_101333000_iOS](https://user-images.githubusercontent.com/91018933/140501644-d98a2ebe-a0fc-4550-a0c8-db2c74078779.png)
+![20210804_101257000_iOS](https://user-images.githubusercontent.com/91018933/140501658-57128d53-7ea8-4d61-bf99-63fb738e06dc.jpg)
